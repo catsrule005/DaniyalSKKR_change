@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <p align='center'>
 Name's Daniyal.
 </p>
-<p align='center'>For enquiries, reach out at daniyalkkr@protonmail.com or via <a href="https://www.linkedin.com/in/daniyal-s-khokhar/">LinkedIn</a></p>
+<p align='center'>For enquiries, reach out at daniyalkkr@protonmail.com or via <a href="https://www.linkedin.com/in/daniyal-s-khokhar/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Pursue Excellence!</i></h1>
-https://www.linkedin.com/in/daniyal-s-khokhar/
