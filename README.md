@@ -1,5 +1,6 @@
 
 <!--
+
 **DaniyalSKKR/DaniyalSKKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![TItle Banner(1)](https://github.com/DaniyalSKKR/DaniyalSKKR/assets/122335626/bdbc9f02-4dc7-41bf-bb59-0884b431ab7b)
 <h1 align='center'> Hey! :wave:</h1>
 <p align='center'>
 Name's Daniyal.
