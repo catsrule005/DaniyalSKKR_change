@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TItle Banner Cropped](https://github.com/DaniyalSKKR/DaniyalSKKR/assets/122335626/71f2d2b2-7ad5-4688-bcee-248f9fac87fb)
+![Centered TItle Banner cropped](https://github.com/DaniyalSKKR/DaniyalSKKR/assets/122335626/ea3e0ad4-3168-48c5-b1ca-2789be32eddf)
 <h1 align='center'> Hey! :wave:</h1>
 <p align='center'>
 Name's Daniyal.
