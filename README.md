@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Centered TItle Banner cropped](https://github.com/DaniyalSKKR/DaniyalSKKR/assets/122335626/ec55d2e8-8ac6-42dc-b3ba-2d14c9d173cf)
 <h1 align='center'> Hey! :wave:</h1>
 <p align='center'>
-Name's Daniyal.
+My name is Daniyal!
 </p>
 <p align='center'>For enquiries, reach out at daniyalkkr@protonmail.com or via <a href="https://www.linkedin.com/in/daniyal-s-khokhar/">LinkedIn</a>.</p>
 
