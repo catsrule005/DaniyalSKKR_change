@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 My name is Daniyal!
 </p>
 <p align='center'>For enquiries, check me out at <a href="https://daniyalskkr.github.io/">My Website</a> or via <a href="https://www.linkedin.com/in/daniyal-s-khokhar/">LinkedIn</a>.</p>
-
+<p align='center'>I teach a coding class. Check out one of my student's README at https://github.com/catsrule005</p>
 <h1 align='center'><i>Pursue Excellence!</i></h1>
